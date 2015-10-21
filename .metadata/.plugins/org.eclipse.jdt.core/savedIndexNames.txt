@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/home/tricia/sqlite-database/.metadata/.plugins/org.eclipse.jdt.core
+3782262874.index
